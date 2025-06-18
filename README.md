@@ -1,6 +1,6 @@
 **✨ Features :**
 
-Toggle switch button with smooth animation
+Toggle switch button with smooth animation	
 
 Dual lamp light effect
   
